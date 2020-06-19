@@ -1,0 +1,16 @@
+#realtime-table td{
+    padding: 1px;
+    text-align: left;
+}
+
+.table td {
+    text-align: center;
+}
+
+body{
+    padding-top: 50px;
+}
+
+.table th {
+    text-align: center;
+}

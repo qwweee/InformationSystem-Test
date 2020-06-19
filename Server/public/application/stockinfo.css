@@ -1,0 +1,37 @@
+.table td {
+    text-align: center;
+}
+.table th {
+    text-align: center;
+}
+
+body{
+    padding-top: 50px;
+}
+
+.transparent {
+    background-color: transparent;
+    box-shadow: none;
+}
+
+#basic-data-table td{
+    padding: 5px;
+}
+
+#financial-news-table td {
+    text-align: left;
+}
+
+#stock-news-table td {
+    text-align: left;
+}
+
+#company-info-treeview li{
+    color: whitesmoke;
+    padding: 3px;
+    white-space: pre-wrap; !important;
+
+}
+
+
+
